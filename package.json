@@ -1,0 +1,11 @@
+{
+  "name": "mystyle",
+  "version": "1.0.0",
+  "description": "Red social de fotos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Víctor Gutiérrez <v.gutierrezrivas@gmail.com> (https://github.com/Titincillo)",
+  "license": "MIT"
+}
